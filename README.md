@@ -1,4 +1,4 @@
-NFT Minter front-end https://nftminter-gules.vercel.app/
+NFT Minter front-end https://nftminter-gules.vercel.app/ to the Phantom wallet
 
 
 
